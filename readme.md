@@ -15,4 +15,4 @@ Simple download the entire project as a zip file and extract where you want on y
 
 This is a image preview of the page:
 
-![Website preview](image.png)
+![image](https://github.com/igranjo/Front_Page_Imobiliaria/assets/144180372/1650d4dc-9ec1-4144-a088-594e43dcc312)
